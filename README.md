@@ -9,7 +9,7 @@ It contains six algorithm:
 - Floyd-Warshall Parallel
 ![Averega Runtime different algorithms](https://github.com/brijn02/APSP_Rust/blob/main/images_dense/dense_all_loglog-1.png)
 
-## Structure
+# Structure
 The Git contains multiple files
 - images_dense contains all the figures generated for the dense graphs
 - images_sparse contains all the figures generated for the sparse graphs
@@ -18,7 +18,9 @@ The Git contains multiple files
 - src contains all the rust files. For the structure please see the report
 - The other files are files to generate or process data
 
-## Run with cargo run
+# Run with cargo run
 cargo run --release (filename to read) (filename to save results)
 The last two are optional. If empty it will run file b18.gph
 
+# Last updated
+Updated 7 February 2024
