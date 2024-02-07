@@ -7,3 +7,4 @@ It contains six algorithm:
 - Dijkstra parallel
 - Floyd-Warshall Blocked
 - Floyd-Warshall Parallel
+![Averega Runtime different algorithms](images_dense/dense_all_loglog.pdf)
